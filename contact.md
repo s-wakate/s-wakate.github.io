@@ -3,7 +3,6 @@ layout: page
 title: Contact
 description: （準備中）
 background: '/img/bg-contact.jpg'
-form: true
 ---
 
-<p>Google Formsの埋め込み、もしくはリンクで対応する。</p>
+Google Formsの埋め込み、もしくはリンクで対応する。
