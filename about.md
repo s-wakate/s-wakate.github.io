@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
-description: This is what I do.
+title: 社会医学若手フォーラムについて
+description: （準備中）
 background: '/img/bg-about.jpg'
 ---
-# 見出し
-*ABOUT*でも**markdown**記法が有効~~なよう~~でした。
+
+Under Construction...
