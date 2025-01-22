@@ -74,7 +74,7 @@ background: '/img/bg-about.jpg'
       </td>
     </tr>
     <tr>
-      <td style="text-align: right;">Extra</td>
+      <td style="text-align: right;">特別回</td>
       <td style="text-align: right;">2023/11/01</td>
       <td style="text-align: left;">
         <a href="https://researchmap.jp/katti">可知　悠子</a></td>
@@ -236,7 +236,7 @@ background: '/img/bg-about.jpg'
 | 小林　果      | 2022/02/01～      | 日本衛生学会                                 |
 | 下敷領　一平  | 2022/02/01～      | 日本農村医学会                               |
 | 和田　聖哉    | 2022/02/01～      | 日本医療情報学会                             |
-| 永吉　真子    | 2024/05/16～      | 日本疫学会                                   |
+| 永吉　真子    | 2024/05/16～      | 日本疫学会、日本公衆衛生学会、American Heart Association |
 | 天笠　志保    | 2024/09/12～      | 公衆衛生学会、日本疫学会、日本体力医学会   |
 
 
