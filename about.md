@@ -74,7 +74,7 @@ background: '/img/bg-about.jpg'
       </td>
     </tr>
     <tr>
-      <td style="text-align: right;">特別回</td>
+      <td style="text-align: right;">特別会</td>
       <td style="text-align: right;">2023/11/01</td>
       <td style="text-align: left;">
         <a href="https://researchmap.jp/katti">可知　悠子</a></td>
@@ -175,11 +175,11 @@ background: '/img/bg-about.jpg'
       <td style="text-align: right;">第4回</td>
       <td style="text-align: right;">2022/03/04</td>
       <td style="text-align: left;">
-        講演①：<a href="https://researchmap.jp/fukuikenmin">遠藤　源樹</a><br>
+        講演①：<a href="https://researchmap.jp/fukuikenmin">天笠　志保</a><br>
         講演②：<a href="https://researchmap.jp/000988922978">大城　真理子</a>
       </td>
       <td style="text-align: left;">
-        ① Cancer and Work～誰でもその人なりに働ける社会のために～<br>
+        ① 身体活動とがんの疫学研究~Past & Future~<br>
         ② 乳房の異常に気づきつつも医療機関の受診が遅れるのはなぜだろう？
       </td>
     </tr>
