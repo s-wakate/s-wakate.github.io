@@ -52,7 +52,7 @@ background: '/img/bg-about.jpg'
     </tr>
     <tr>
       <td style="text-align: right;">第14回</td>
-      <td style="text-align: right;">2025/03/27</td>
+      <td style="text-align: right;">2025/03/17</td>
       <td style="text-align: left;">
         千島　佳也子
       </td>
