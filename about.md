@@ -41,6 +41,17 @@ background: '/img/bg-about.jpg'
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: right;">第16回</td>
+      <td style="text-align: right;">2025/10/30</td>
+      <td style="text-align: left;">
+        下敷領　一平<br>（世話人）
+      </td>
+      <td style="text-align: left;">
+        <a href="https://s-wakate.github.io/2025/08/06/notice.html">行政の取組と公衆衛生学分野の現場・研究における取組について</a><br>
+        <a href="https://plaza.umin.ac.jp/~jsph84/">第84回日本公衆衛生学会総会</a>の<a href="https://plaza.umin.ac.jp/~jsph84/program/files/free_meeting.pdf">自由集会26</a>「社会医学若手研究者の集い」として開催
+      </td>
+    </tr>
+    <tr>
       <td style="text-align: right;">第15回</td>
       <td style="text-align: right;">2025/07/11</td>
       <td style="text-align: left;">
