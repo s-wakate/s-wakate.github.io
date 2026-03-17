@@ -41,6 +41,17 @@ background: '/img/bg-about.jpg'
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: right;">第17回</td>
+      <td style="text-align: right;">2025/02/16</td>
+      <td style="text-align: left;">
+        <a href="https://researchmap.jp/yukiko-iida">飯田　裕貴子</a>
+      </td>
+      <td style="text-align: left;">
+        <a href="https://s-wakate.github.io/2026/01/13/notice.html">民間企業における研究の継続に向けた課題と実践的工夫<br>～AIアスベスト分析および現場での呼吸用保護具（マスク）適正使用研究について～
+</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align: right;">第16回</td>
       <td style="text-align: right;">2025/10/30</td>
       <td style="text-align: left;">
