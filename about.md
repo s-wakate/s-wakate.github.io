@@ -41,6 +41,17 @@ background: '/img/bg-about.jpg'
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: right;">第18回</td>
+      <td style="text-align: right;">2025/04/24</td>
+      <td style="text-align: left;">
+        <a href="https://researchmap.jp/read0153872">各務　竹康</a>
+      </td>
+      <td style="text-align: left;">
+        <a href="https://s-wakate.github.io/2026/03/17/notice.html">実践につなげる熱中症予防の科学
+</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align: right;">第17回</td>
       <td style="text-align: right;">2025/02/16</td>
       <td style="text-align: left;">
