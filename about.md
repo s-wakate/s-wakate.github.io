@@ -41,6 +41,16 @@ background: '/img/bg-about.jpg'
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: right;">第19回</td>
+      <td style="text-align: right;">2026/07/24</td>
+      <td style="text-align: left;">
+        <a href="https://researchmap.jp/harukimomma">門間　陽樹</a>
+      </td>
+      <td style="text-align: left;">
+        <a href="https://s-wakate.github.io/2026/06/25/notice.html">筋トレの疫学</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align: right;">第18回</td>
       <td style="text-align: right;">2025/04/24</td>
       <td style="text-align: left;">
